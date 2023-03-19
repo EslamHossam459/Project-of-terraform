@@ -1,0 +1,6 @@
+public2 private_ip = 10.0.0.30, public_ip = 44.200.3.169
+private_2 private_ip = 10.0.1.215, public_ip =  
+public1 private_ip = 10.0.0.101, public_ip = 54.208.192.36 
+private_1 private_ip = 10.0.3.207, public_ip =  
+Private Loadbalncer DNS = internal-privatelb-407032313.us-east-1.elb.amazonaws.com
+Public Loadbalncer DNS = publiclb-a10c22115d3dd9ad.elb.us-east-1.amazonaws.com
